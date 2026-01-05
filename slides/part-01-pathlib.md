@@ -17,10 +17,10 @@ A **built-in Python module** for working with file system paths in an object-ori
 
 ### The Problem
 
-- File paths differ across operating systems (`/` vs `\`)
+- File paths differ across operating systems (`/` on Unix vs `\` on Windows)
 - String manipulation for paths is error-prone
 - `os.path` functions are verbose and scattered
-- Easy to forget edge cases (trailing slashes, etc.)
+- Edge cases are easy to miss (e.g., `data/` vs `data`)
 
 </div>
 
