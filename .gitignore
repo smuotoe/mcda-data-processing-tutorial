@@ -11,3 +11,4 @@ wheels/
 .idea
 node_modules/
 .vscode/
+.claude/settings.local.json
