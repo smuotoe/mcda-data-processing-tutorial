@@ -39,8 +39,8 @@ layout: default
 <div class="font-bold text-lg mb-3">Part 1: File Operations</div>
 <div class="opacity-80">
 
-- Why pathlib over os.path?
-- Path manipulation basics
+- What is pathlib?
+- Path basics & properties
 - Reading & writing files
 - Directory operations
 
