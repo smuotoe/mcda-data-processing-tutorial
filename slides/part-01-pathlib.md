@@ -2,11 +2,15 @@
 layout: image-right
 image: /images/part-01-pathlib.png
 backgroundSize: contain
-class: my-auto
+backgroundPosition: center
+class: flex flex-col justify-center
 ---
 
-# Part 1
-## File Operations with pathlib
+<div class="pr-8">
+<div class="text-blue-400 uppercase tracking-widest text-sm font-semibold mb-2">Part 1</div>
+<h1 class="!text-5xl font-bold !leading-tight">File Operations<br/>with pathlib</h1>
+<div class="mt-4 text-gray-400 text-lg">Cross-platform file handling in Python</div>
+</div>
 
 ---
 

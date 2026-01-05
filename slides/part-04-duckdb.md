@@ -2,11 +2,16 @@
 layout: image-right
 image: /images/part-04-duckdb.png
 backgroundSize: contain
-class: my-auto
+backgroundPosition: center
+class: flex flex-col justify-center
 ---
 
-# Part 4
-## DuckDB: SQL Meets DataFrames
+<div class="pr-8">
+<div class="text-purple-400 uppercase tracking-widest text-sm font-semibold mb-2">Part 4</div>
+<h1 class="!text-5xl font-bold !leading-tight">DuckDB</h1>
+<h2 class="!text-3xl font-light text-gray-300 mt-2">SQL Meets DataFrames</h2>
+<div class="mt-4 text-gray-400 text-lg">In-process analytics database</div>
+</div>
 
 ---
 

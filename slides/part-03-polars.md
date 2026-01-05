@@ -2,11 +2,16 @@
 layout: image-right
 image: /images/part-03-polars.png
 backgroundSize: contain
-class: my-auto
+backgroundPosition: center
+class: flex flex-col justify-center
 ---
 
-# Part 3
-## Polars: The Modern Alternative
+<div class="pr-8">
+<div class="text-orange-400 uppercase tracking-widest text-sm font-semibold mb-2">Part 3</div>
+<h1 class="!text-5xl font-bold !leading-tight">Polars</h1>
+<h2 class="!text-3xl font-light text-gray-300 mt-2">The Modern Alternative</h2>
+<div class="mt-4 text-gray-400 text-lg">Lightning-fast DataFrames in Rust</div>
+</div>
 
 ---
 

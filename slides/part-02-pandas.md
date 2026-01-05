@@ -2,11 +2,16 @@
 layout: image-right
 image: /images/part-02-pandas.png
 backgroundSize: contain
-class: my-auto
+backgroundPosition: center
+class: flex flex-col justify-center
 ---
 
-# Part 2
-## Pandas: Fundamentals
+<div class="pr-8">
+<div class="text-green-400 uppercase tracking-widest text-sm font-semibold mb-2">Part 2</div>
+<h1 class="!text-5xl font-bold !leading-tight">Pandas</h1>
+<h2 class="!text-3xl font-light text-gray-300 mt-2">Fundamentals</h2>
+<div class="mt-4 text-gray-400 text-lg">The de facto standard for data analysis</div>
+</div>
 
 ---
 
