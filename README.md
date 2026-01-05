@@ -1,6 +1,6 @@
 # MCDA 5511: Data Processing in Python
 
-A tutorial on the modern Python data stack covering **pathlib**, **pandas**, **polars**, and **DuckDB**.
+A tutorial on the modern Python data stack covering `pathlib`, `pandas`, `polars`, and `DuckDB`.
 
 ## Live Slides
 
@@ -47,9 +47,6 @@ cd mcda-data-processing-tutorial
 
 # Install dependencies with uv
 uv sync
-
-# Or with pip
-pip install pandas polars duckdb pyarrow
 ```
 
 ### Running Exercises
@@ -60,14 +57,6 @@ uv run python 01-file-operations.py
 
 # Or directly
 python 01-file-operations.py
-```
-
-### Running the Slides Locally
-
-```bash
-cd slides
-npm install
-npm run dev
 ```
 
 ## PDF Exports
@@ -91,7 +80,3 @@ PDF versions of the slides are available in the `slides/` folder:
 - [Polars User Guide](https://docs.pola.rs/user-guide/)
 - [Pandas to Polars Migration](https://docs.pola.rs/user-guide/migration/pandas/)
 - [Modern Polars](https://kevinheavey.github.io/modern-polars/) (cookbook)
-
-## License
-
-MIT
