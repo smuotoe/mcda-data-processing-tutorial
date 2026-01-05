@@ -388,6 +388,7 @@ layout: center
 ### Tutorials & Guides
 
 - **Polars User Guide**: [docs.pola.rs/user-guide](https://docs.pola.rs/user-guide/)
+- **Pandas to Polars Migration**: [docs.pola.rs/user-guide/migration/pandas](https://docs.pola.rs/user-guide/migration/pandas/)
 - **Modern Polars** (cookbook): [kevinheavey.github.io/modern-polars](https://kevinheavey.github.io/modern-polars/)
 - **DuckDB Guides**: [duckdb.org/docs/guides](https://duckdb.org/docs/guides/)
 
