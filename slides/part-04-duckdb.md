@@ -371,35 +371,33 @@ data_path = Path("data") / "sales_data.csv"
 </div>
 
 ---
-layout: center
----
 
 # Resources
 
-<div class="text-left max-w-2xl">
+<div class="grid grid-cols-2 gap-4">
+<div>
 
-### Documentation
+**Documentation**
+- [pathlib](https://docs.python.org/3/library/pathlib.html) - docs.python.org
+- [Pandas](https://pandas.pydata.org/docs/) - pandas.pydata.org
+- [Polars](https://docs.pola.rs/) - docs.pola.rs
+- [DuckDB](https://duckdb.org/docs/) - duckdb.org
 
-- **pathlib**: [docs.python.org/3/library/pathlib.html](https://docs.python.org/3/library/pathlib.html)
-- **Pandas**: [pandas.pydata.org/docs](https://pandas.pydata.org/docs/)
-- **Polars**: [docs.pola.rs](https://docs.pola.rs/)
-- **DuckDB**: [duckdb.org/docs](https://duckdb.org/docs/)
+**Tutorials & Guides**
+- [Polars User Guide](https://docs.pola.rs/user-guide/)
+- [Pandas to Polars Migration](https://docs.pola.rs/user-guide/migration/pandas/)
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/) (cookbook)
 
-### Tutorials & Guides
+</div>
+<div>
 
-- **Polars User Guide**: [docs.pola.rs/user-guide](https://docs.pola.rs/user-guide/)
-- **Pandas to Polars Migration**: [docs.pola.rs/user-guide/migration/pandas](https://docs.pola.rs/user-guide/migration/pandas/)
-- **Modern Polars** (cookbook): [kevinheavey.github.io/modern-polars](https://kevinheavey.github.io/modern-polars/)
-- **DuckDB Guides**: [duckdb.org/docs/guides](https://duckdb.org/docs/guides/)
+**Cheat Sheets**
+- [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+- [Polars Cheat Sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf) (community)
 
-### Cheat Sheets
+**This Tutorial**
+- [Slides](https://mcda-data-processing.pages.dev) - mcda-data-processing.pages.dev
+- [Code](https://github.com/smuotoe/mcda-data-processing-tutorial) - github.com/smuotoe
 
-- **Pandas Cheat Sheet**: [pandas.pydata.org/Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
-- **Polars Cheat Sheet** (community): [franzdiebold.github.io/polars-cheat-sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf)
-
-### This Tutorial
-
-- **Slides**: [mcda-data-processing.pages.dev](https://mcda-data-processing.pages.dev)
-- **Code**: [github.com/smuotoe/mcda-data-processing-tutorial](https://github.com/smuotoe/mcda-data-processing-tutorial)
-
+</div>
 </div>
