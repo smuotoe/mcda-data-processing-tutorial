@@ -7,6 +7,45 @@ layout: section
 
 ---
 
+# What is pathlib?
+
+A **built-in Python module** for working with file system paths in an object-oriented way. Part of the standard library since Python 3.4.
+
+<div class="grid grid-cols-2 gap-8 mt-6">
+
+<div>
+
+### The Problem
+
+- File paths differ across operating systems (`/` vs `\`)
+- String manipulation for paths is error-prone
+- `os.path` functions are verbose and scattered
+- Easy to forget edge cases (trailing slashes, etc.)
+
+</div>
+
+<div class="bg-blue-50 dark:bg-blue-900/30 p-4 rounded">
+
+### How pathlib Solves It
+
+- **Cross-platform** - handles path separators automatically
+- **Object-oriented** - paths are objects with methods
+- **Intuitive operators** - use `/` to join paths
+- **All-in-one** - file operations built into Path objects
+
+```python
+from pathlib import Path
+
+path = Path("data") / "sales.csv"
+content = path.read_text()
+```
+
+</div>
+
+</div>
+
+---
+
 # Why pathlib?
 
 <div class="grid grid-cols-2 gap-8 mt-6">
