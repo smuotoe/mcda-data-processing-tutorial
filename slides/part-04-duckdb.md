@@ -1,5 +1,8 @@
 ---
-layout: section
+layout: image-right
+image: /images/part-04-duckdb.png
+backgroundSize: contain
+class: my-auto
 ---
 
 # Part 4

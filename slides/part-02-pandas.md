@@ -1,5 +1,8 @@
 ---
-layout: section
+layout: image-right
+image: /images/part-02-pandas.png
+backgroundSize: contain
+class: my-auto
 ---
 
 # Part 2
