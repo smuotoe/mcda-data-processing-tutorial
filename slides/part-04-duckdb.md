@@ -397,4 +397,9 @@ layout: center
 - **Pandas Cheat Sheet**: [pandas.pydata.org/Pandas_Cheat_Sheet.pdf](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
 - **Polars Cheat Sheet** (community): [franzdiebold.github.io/polars-cheat-sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf)
 
+### This Tutorial
+
+- **Slides**: [mcda-data-processing.pages.dev](https://mcda-data-processing.pages.dev)
+- **Code**: [github.com/smuotoe/mcda-data-processing-tutorial](https://github.com/smuotoe/mcda-data-processing-tutorial)
+
 </div>
