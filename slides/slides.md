@@ -1,9 +1,9 @@
 ---
 theme: default
-title: Data Processing in Python - pathlib, pandas, polars & duckdb
+title: "MCDA 5511: Data Processing in Python"
 info: |
-  ## Data Processing Tutorial
-  A comprehensive guide for Master's students
+  ## Data Processing in Python
+  The Modern Python Data Stack: pathlib, pandas, polars & duckdb
 class: text-center
 highlighter: shiki
 drawings:
