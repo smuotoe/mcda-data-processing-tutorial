@@ -1,7 +1,7 @@
 ---
 layout: image-right
 image: /images/part-01-pathlib.png
-backgroundSize: contain
+backgroundSize: cover
 backgroundPosition: center
 class: flex flex-col justify-center
 ---
