@@ -99,6 +99,14 @@ name = path.name
 
 </div>
 
+<div class="mt-4 bg-yellow-50 dark:bg-yellow-900/30 p-3 rounded text-sm">
+
+**Edge case pathlib handles:** `"data/" + "file.txt"` → `"data/file.txt"` but `"data" + "file.txt"` → `"datafile.txt"` ✗
+
+With pathlib: `Path("data") / "file.txt"` and `Path("data/") / "file.txt"` both → `data/file.txt` ✓
+
+</div>
+
 ---
 
 # Path Basics
