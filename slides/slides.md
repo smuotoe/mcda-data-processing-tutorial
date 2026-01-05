@@ -85,7 +85,7 @@ layout: default
 
 </div>
 
-<div class="mt-4 bg-blue-50 dark:bg-blue-900/30 p-2 rounded text-sm text-center">
+<div class="mt-2 bg-blue-50 dark:bg-blue-900/30 p- rounded text-sm text-center">
 
 **Setup:** Clone the repo for data files and exercises → [github.com/smuotoe/mcda-data-processing-tutorial](https://github.com/smuotoe/mcda-data-processing-tutorial)
 
