@@ -55,9 +55,9 @@ content = path.read_text()
 
 # Why pathlib?
 
-<div class="grid grid-cols-2 gap-4 mt-6">
+<div class="grid grid-cols-2 gap-3 mt-4">
 
-<div class="bg-red-50 dark:bg-red-900/30 p-4 rounded">
+<div class="bg-red-50 dark:bg-red-900/30 p-3 rounded">
 
 ### The Old Way: os.path
 
@@ -81,7 +81,7 @@ name = os.path.basename(path)
 
 </div>
 
-<div class="bg-green-50 dark:bg-green-900/30 p-4 rounded">
+<div class="bg-green-50 dark:bg-green-900/30 p-3 rounded">
 
 ### The Modern Way: pathlib
 
@@ -106,7 +106,7 @@ name = path.name
 
 </div>
 
-<div class="mt-1 bg-yellow-50 dark:bg-yellow-900/30 p-1 rounded text-sm">
+<div class="mt-1 mb-8 bg-yellow-50 dark:bg-yellow-900/30 p-1 rounded text-sm">
 
 **An edge case pathlib handles:** 
   `"data/" + "file.txt"` → `"data/file.txt"` but `"data" + "file.txt"` → `"datafile.txt"` ✗
