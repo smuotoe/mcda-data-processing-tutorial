@@ -202,4 +202,4 @@ def run_comparison(rows=1_000_000):
 
 
 if __name__ == "__main__":
-    run_comparison()
+    run_comparison(rows=100_000_000)
